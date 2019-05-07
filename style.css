@@ -1,0 +1,63 @@
+body {
+    padding-top: 70px;  
+}
+
+.jumbotron {
+    color: #2c3e50;
+    background-color: #ecf0f1;
+}
+
+.well {    
+    color: #2c3e50;
+    background-color: #ecf0f1;
+}
+
+.navbar-inverse {
+    background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+
+.image1 {
+    background-image: url("images/office.jpg"); 
+  }
+  
+  .image2 {
+    background-image: url("images/pumpkin.jpg");
+  }
+
+  .image3 {
+    background-image: url("images/250px-Pikachu_SSBU.png");
+  }
+
+  .image4 {
+    background-image: url("images/food.jpg");
+  }
+  
+  .image5 {
+    background-image: url("images/paw.jpg");
+  }
+
+  .image6 {
+    background-image: url("images/ParkSlope.JPG");
+  }
+  
+  .image {
+    width: 100%;
+    height: 325px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .name {
+    color: #2c3e50;
+    background-color: #ecf0f1;
+    text-align: center;
+  }
